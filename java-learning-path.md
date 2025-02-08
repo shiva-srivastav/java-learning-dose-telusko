@@ -207,5 +207,3 @@
 - Java Core Concepts
 - System Design Interview Prep
 - Coding Problems & Mock Interviews
-
-This expanded roadmap offers a deep analysis of Java, covering all essential topics and subtopics for mastering Java development from beginner to expert level.
